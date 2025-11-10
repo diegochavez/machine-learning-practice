@@ -1,0 +1,4 @@
+# This file lists the core dependencies for the project
+pandas
+matplotlib
+seaborn

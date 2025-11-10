@@ -1,0 +1,10 @@
+# uv/uvx compatible project configuration for Python
+[project]
+dependencies = [
+    "pandas",
+    "matplotlib",
+    "seaborn"
+]
+
+[tool.uv]
+# Add any uv/uvx specific settings here
